@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - anaconda
 dependencies:
-  - python=3.7
+  - python=3.9
   - conda-forge::pip
   - anaconda::tensorflow-gpu=1.15
   - anaconda::cudnn
